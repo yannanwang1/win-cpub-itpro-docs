@@ -29,6 +29,20 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op"
+    },
+    {
+      "docset_name": "hub1",
+      "build_source_folder": "devices/surfacehub",
+      "build_output_subfolder": "yannw_test_surfacehub",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [
