@@ -17,9 +17,9 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "surface11",
-      "build_source_folder": "devices/surface",
-      "build_output_subfolder": "yannan_test_surface",
+      "docset_name": "hub1",
+      "build_source_folder": "devices/surface-hub",
+      "build_output_subfolder": "yannw_test_surfacehub",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -31,9 +31,9 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "hub1",
-      "build_source_folder": "devices/surfacehub",
-      "build_output_subfolder": "yannw_test_surfacehub",
+      "docset_name": "surface11",
+      "build_source_folder": "devices/surface",
+      "build_output_subfolder": "yannan_test_surface",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
