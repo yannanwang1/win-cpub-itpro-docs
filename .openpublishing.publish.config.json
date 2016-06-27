@@ -15,6 +15,20 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op"
+    },
+    {
+      "docset_name": "surface",
+      "build_source_folder": "devices/surface",
+      "build_output_subfolder": "yannan_test_surface",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [
