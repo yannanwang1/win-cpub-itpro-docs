@@ -4,7 +4,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "windows10",
-      "build_source_folder": "devices / surface",
+      "build_source_folder": "windows/index",
       "build_output_subfolder": "yannw_test_itpro",
       "locale": "en-us",
       "version": 0,
