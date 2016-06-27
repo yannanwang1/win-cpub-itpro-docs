@@ -17,7 +17,7 @@
       "build_entry_point": "op"
     },
     {
-      "docset_name": "surface",
+      "docset_name": "surface11",
       "build_source_folder": "devices/surface",
       "build_output_subfolder": "yannan_test_surface",
       "locale": "en-us",
