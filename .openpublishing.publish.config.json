@@ -4,8 +4,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "windows10",
-      "build_source_folder": "windows",
-      "build_output_subfolder": "index",
+      "build_source_folder": "windows/index",
+      "build_output_subfolder": "yannw_test",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
