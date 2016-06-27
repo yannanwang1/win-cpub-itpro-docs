@@ -5,7 +5,7 @@
     {
       "docset_name": "windows10",
       "build_source_folder": "windows",
-      "build_output_subfolder": "win-cpub-itpro-docs",
+      "build_output_subfolder": "index",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
